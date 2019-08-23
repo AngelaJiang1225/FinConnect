@@ -1,4 +1,4 @@
-# 环境初始化
+# The Initialization of environment
 
 ## 数据库
 ### 管理端
